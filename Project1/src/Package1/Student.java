@@ -17,8 +17,11 @@ public class Student {
 		System.out.println("Roll number = " +Ramya.rollno);
 		Ramya.age=18;
 		System.out.println("Age = " +Ramya.age);
+		System.out.println("Age = " +Ramya.age);
+		System.out.println("Age = " +Ramya.age);
 		Ramya.Display1();
 		Ramya.Display2();
+		
 		
 	}
 
